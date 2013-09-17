@@ -60,5 +60,24 @@ ImageServer/Web/Application/Web.config
 ImageServer/Web/Application/critical.config
 ImageServer/Web/Application/Pages/Help/UsersGuide/*
 
+# Additional auto-generated files coming from build scripts
+Common/SR.Designer.cs
+Desktop/SR.Designer.cs
+Desktop/Explorer/SR.Designer.cs
+Desktop/ExtensionBrowser/SR.Designer.cs
+Dicom/SR.Designer.cs
+ImageViewer/SR.Designer.cs
+ImageViewer/DesktopServices/SR.Designer.cs
+ImageViewer/Explorer/Local/SR.Designer.cs
+ImageViewer/Layout/Basic/SR.Designer.cs
+ImageViewer/StudyFinders/Local/SR.Designer.cs
+ImageViewer/StudyFinders/Remote/SR.Designer.cs
+ImageViewer/Tools/Measurements/SR.Designer.cs
+ImageViewer/View/WinForms/SR.Designer.cs
+ImageViewer/Volume/Mpr/SR.Designer.cs
+
+# Files which will be incorporated into installer
+Distribution/Redistributables/*
+
 # Files for Github integration
 ReferencedAssemblies
